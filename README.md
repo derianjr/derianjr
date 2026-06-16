@@ -17,9 +17,9 @@
 
 Desenvolvedor **Full Stack** com foco em **PHP (Laravel/Symfony)**, **JavaScript/React** e **MySQL**, com experiência prática em todo o ciclo de vida de produtos digitais — do levantamento de requisitos ao deploy.
 
-- 🔭 Atuo como **desenvolvedor freelancer**, criando soluções web e automações sob medida para empresas de diferentes setores (advocacia, saúde e varejo).
+- 🔭 Atuo como **desenvolvedor**, criando soluções web e automações sob medida para empresas de diferentes setores (advocacia, saúde e varejo).
 - 🛠 Experiência em **APIs REST**, **automação de processos** e **QA com testes automatizados (Cypress)**.
-- 📈 Implementei um sistema de crédito que gerou **+16% em aprovações**.
+- 📈 Implementei um sistema de crédito que gerou ganhos significativos no fluxo de crédito.
 - 🎓 Graduando em **Sistemas para Internet** no **IFES** (conclusão prevista: 2028).
 - 🌎 São Mateus, ES — Brasil.
 
