@@ -66,6 +66,9 @@ Desenvolvedor **Full Stack** com foco em **PHP (Laravel/Symfony)**, **JavaScript
 
 ## 🌟 Projeto em Destaque
 
+### ⚡ [FluxIA — Assistente de Automação com IA](https://github.com/derianjr/fluxiaIA)
+SaaS de automação para pequenas empresas: a **IA classifica, extrai dados e sugere respostas** para mensagens e solicitações, num painel com métricas. Stack **React + Laravel (PHP 8.3) + MySQL 8**, com **Docker**, autenticação e testes E2E (Cypress). A chave da IA fica **somente no back-end**.
+
 ### 💰 [API de Investimentos](https://github.com/derianjr/api-investimento-test)
 API RESTful em **PHP 8.3 + Symfony 5 + MySQL 8**, com ambiente **containerizado (Docker)**, **autenticação JWT** e regras de negócio para cálculo de impostos sobre saque.
 
